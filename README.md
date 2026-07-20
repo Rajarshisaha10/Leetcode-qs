@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1260-shift-2d-grid](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
@@ -80,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
