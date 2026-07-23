@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0141-linked-list-cycle) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
