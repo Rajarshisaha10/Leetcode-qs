@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0075-sort-colors) |
 | [0410-split-array-largest-sum](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1260-shift-2d-grid](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1331-rank-transform-of-an-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0075-sort-colors) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/3536-maximum-product-of-two-digits) |
 ## Enumeration
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
