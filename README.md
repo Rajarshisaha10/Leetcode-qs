@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0141-linked-list-cycle) |
+| [0567-permutation-in-string](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0567-permutation-in-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0141-linked-list-cycle) |
+| [0567-permutation-in-string](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
 | ------- |
@@ -109,9 +111,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0125-valid-palindrome) |
+| [0567-permutation-in-string](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
