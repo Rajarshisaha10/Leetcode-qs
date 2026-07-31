@@ -56,22 +56,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0234-palindrome-linked-list) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
