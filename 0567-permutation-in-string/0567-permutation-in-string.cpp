@@ -1,27 +1,39 @@
-#include <string>
-#include <vector>
-
 class Solution {
 public:
-    bool checkInclusion(std::string s1, std::string s2) {
-        int n1 = s1.length();
-        int n2 = s2.length();
+    bool isFreq(const int freq[], const int winfreq[]) {
+        for (int i = 0; i < 26; i++) {
+            if (freq[i] != winfreq[i]) {
+                return false;
+            }
+        }
+        return true;
+    }
 
-        if (n1 > n2) return false;
+    bool checkInclusion(string s1, string s2) {
+        int freq[26] = {0};
 
-        std::vector<int> count1(26, 0);
-        std::vector<int> count2(26, 0);
-        for (int i = 0; i < n1; ++i) {
-            count1[s1[i] - 'a']++;
-            count2[s2[i] - 'a']++;
+        // Frequency of s1
+        for (int i = 0; i < s1.length(); i++) {
+            freq[s1[i] - 'a']++;
         }
 
-        if (count1 == count2) return true;
+        int windowsize = s1.length();
 
-        for (int i = n1; i < n2; ++i) {
-            count2[s2[i] - 'a']++;
-            count2[s2[i - n1] - 'a']--;
-            if (count1 == count2) return true;
+        // Check every possible window
+        for (int i = 0; i < s2.length(); i++) {
+            int winIdx = 0;
+            int idx = i;
+            int winfreq[26] = {0};
+
+            while (winIdx < windowsize && idx < s2.length()) {
+                winfreq[s2[idx] - 'a']++;
+                winIdx++;
+                idx++;
+            }
+
+            if (isFreq(freq, winfreq)) {
+                return true;
+            }
         }
 
         return false;
