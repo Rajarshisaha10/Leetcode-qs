@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0141-linked-list-cycle) |
 | [0567-permutation-in-string](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0567-permutation-in-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1331-rank-transform-of-an-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sorting
 |  |
 | ------- |
