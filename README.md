@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0836-rectangle-overlap) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/3536-maximum-product-of-two-digits) |
 | [3870-count-commas-in-range](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/3870-count-commas-in-range) |
@@ -195,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0700-search-in-a-binary-search-tree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
