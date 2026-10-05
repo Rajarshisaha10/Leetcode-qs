@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/2965-find-missing-and-repeated-values) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/3903-smallest-stable-index-i) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0141-linked-list-cycle) |
 | [0567-permutation-in-string](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0567-permutation-in-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1331-rank-transform-of-an-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/2965-find-missing-and-repeated-values) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sorting
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0836-rectangle-overlap) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/2965-find-missing-and-repeated-values) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/3536-maximum-product-of-two-digits) |
 | [3870-count-commas-in-range](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/3871-count-commas-in-range-ii) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1260-shift-2d-grid) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
