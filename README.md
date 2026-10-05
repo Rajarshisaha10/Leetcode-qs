@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0033-search-in-rotated-sorted-array) |
+| [0054-spiral-matrix](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0283-move-zeroes) |
@@ -138,11 +139,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1260-shift-2d-grid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/3498-reverse-degree-of-a-string) |
