@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0074-search-a-2d-matrix) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0075-sort-colors) |
 | [0414-third-maximum-number](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0628-maximum-product-of-three-numbers) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0141-linked-list-cycle) |
