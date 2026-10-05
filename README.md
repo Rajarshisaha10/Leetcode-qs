@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0234-palindrome-linked-list) |
+| [0856-score-of-parentheses](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0856-score-of-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Tree
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0567-permutation-in-string) |
+| [0856-score-of-parentheses](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0856-score-of-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/3498-reverse-degree-of-a-string) |
 ## Heap (Priority Queue)
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0287-find-the-duplicate-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
