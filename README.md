@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0410-split-array-largest-sum) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0234-palindrome-linked-list) |
 | [0856-score-of-parentheses](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Tree
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0567-permutation-in-string) |
 | [0856-score-of-parentheses](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/3498-reverse-degree-of-a-string) |
 ## Heap (Priority Queue)
@@ -233,4 +236,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
