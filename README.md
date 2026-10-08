@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0148-sort-list) |
 | [0414-third-maximum-number](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1331-rank-transform-of-an-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0283-move-zeroes) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0234-palindrome-linked-list) |
 ## String
@@ -243,4 +246,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1021-remove-outermost-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
