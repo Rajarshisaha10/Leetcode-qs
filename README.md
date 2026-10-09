@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0283-move-zeroes) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0066-plus-one) |
 | [0292-nim-game](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0836-rectangle-overlap) |
