@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/2965-find-missing-and-repeated-values) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Stack
 |  |
 | ------- |
