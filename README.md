@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0066-plus-one) |
 | [0292-nim-game](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0628-maximum-product-of-three-numbers) |
