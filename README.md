@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/2965-find-missing-and-repeated-values) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/3536-maximum-product-of-two-digits) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/3876-construct-uniform-parity-array-ii) |
