@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/2965-find-missing-and-repeated-values) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0567-permutation-in-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/1331-rank-transform-of-an-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/2965-find-missing-and-repeated-values) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sorting
@@ -272,4 +274,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0148-sort-list) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
