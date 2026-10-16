@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0074-search-a-2d-matrix) |
@@ -284,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
