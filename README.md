@@ -290,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0039-combination-sum) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Rajarshisaha10/Leetcode-qs/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
